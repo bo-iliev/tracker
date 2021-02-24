@@ -1,4 +1,4 @@
-![https://imgur.com/dXuCxw0.png](tracker)
+![tracker](https://imgur.com/dXuCxw0.png)
 
 ## About Tracker
 
