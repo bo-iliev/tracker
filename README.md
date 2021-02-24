@@ -12,4 +12,10 @@ Tracker uses [New Relic APM](https://one.eu.newrelic.com/) to monitor the server
 
 Tracker is made thanks to [Tails](http://devdojo.com/tails). This is an awesome drag-and-drop TailwindCSS page builder!
 
-## 
+## Laravel
+
+Tracker is made with [Laravel](https://laravel.com/).
+
+## License
+
+The Tracker project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT)
